@@ -1,0 +1,593 @@
+{
+    "grados": 
+    [
+        {
+            "nombre": "Grado 1",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 2",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 3",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 4",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 5",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 6",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 7",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 8",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 9",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 10",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 11",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 12",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 13",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        },
+        {
+            "nombre": "Grado 14",
+            "juegos": 
+            [
+                {
+                    "titulo" : "Embarque y desembarque en helicoptero",
+                    "imagen" : "Embarque",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Protocolo ante una hemorragia externa",
+                    "imagen" : "Hemorragia",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Maniobras de extinción según la instalación",
+                    "imagen" : "Extincion",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Tipología y características de los EPIs",
+                    "imagen" : "EPIS",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Señalización a helicóptero desde tierra",
+                    "imagen" : "Helicoptero",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                },
+                {
+                    "titulo" : "Rescate en ascensor",
+                    "imagen" : "Ascensor",
+                    "ruta" : "src/Juego/CampoPracticas_EPIS.exe",
+                    "descripcion" : "<html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua<br>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br></html>"
+                }
+            ]
+        }
+    ]
+}
